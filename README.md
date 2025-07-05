@@ -62,7 +62,7 @@ Cybersecurity professional with expertise in penetration testing, software devel
 
 ![Profile Views](https://komarev.com/ghpvc/?username=X2X0&color=39D353&style=flat-square)
 
-**"Security is not a product, but a process."** - Bruce Schneier
+**"Every system has vulnerabilities; it's just a matter of time and methodology to find them."** - X2X0
 
 </div>
 
