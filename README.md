@@ -54,7 +54,7 @@ Cybersecurity professional with expertise in penetration testing, software devel
 
 ## Contact
 
-[![Discord](https://discord.com)= **X4X0**
+[Discord](https://discord.com)= **X4X0**
 
 ---
 
