@@ -55,6 +55,7 @@ Cybersecurity professional with expertise in penetration testing, software devel
 ## Contact
 
 [![Discord](https://dcbadge.vercel.app/api/shield/699092961308180511?style=flat)](https://discord.com)
+user= **X4X0**
 
 ---
 
