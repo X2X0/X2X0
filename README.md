@@ -34,6 +34,7 @@ Cybersecurity professional with expertise in penetration testing, software devel
 ![Java](https://skillicons.dev/icons?i=java) 
 ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![Bash](https://skillicons.dev/icons?i=bash)
+![Assembly](https://skillicons.dev/icons?i=assembly)
 
 ### Core Competencies
 - **Security**: Network security, cryptography, exploit development, forensics
